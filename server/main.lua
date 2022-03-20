@@ -8,5 +8,6 @@ QBCore.Commands.Add('givemarkedbills', 'Give marked bills to a player', {{name='
             worth = tonumber(args[2]) -- Get the worth of the marked bills
         }
         targetPlayer.Functions.AddItem("markedbills", 1, false, info)
+            TriggerClientEvent('QBCore:Notify', src, 'You gave black money', 'success')
     end
 end, 'admin') -- Only admins can use this commands
