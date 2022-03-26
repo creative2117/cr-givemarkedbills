@@ -8,4 +8,4 @@ feel free to edit to your liking
 
 # Support
 
-For support join my [discord](https://discord.gg/zFPCa6DuKp)
+For support join my [discord](https://discord.gg/feS9hMUPuf)
