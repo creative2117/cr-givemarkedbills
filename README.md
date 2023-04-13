@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X0KDPJQ)
 # cr-givemarkedbills
 Adds the option for a command to give marked bills with a chosen value in QBCore
 
